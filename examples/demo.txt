@@ -1,0 +1,9 @@
+# A small mixed list for make run. One of these is not there.
+http://csc139.test/index.html?ms=200&bytes=5120
+http://csc139.test/style.css?ms=150&bytes=2048
+http://csc139.test/app.js?ms=400&bytes=81920
+http://csc139.test/logo.png?ms=300&bytes=15360
+http://csc139.test/missing.png?ms=100&status=404
+http://csc139.test/photo1.jpg?ms=600&bytes=204800
+http://csc139.test/photo2.jpg?ms=600&bytes=198656
+http://csc139.test/favicon.ico?ms=100&bytes=1150

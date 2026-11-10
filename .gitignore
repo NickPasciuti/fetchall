@@ -1,0 +1,8 @@
+# build output
+/fetchall
+/fetchall-nolocks
+*.o
+# test artifacts
+tests/tmp/
+# macOS
+.DS_Store

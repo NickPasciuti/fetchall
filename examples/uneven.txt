@@ -1,0 +1,18 @@
+# 16 files. The first four are big and slow (1.5 s each); the other twelve are quick (0.25 s).
+# With -t 4 and fixed slices, worker 1 gets all four slow ones. Used by make compare.
+http://csc139.test/video/part01.mp4?ms=1500&bytes=4100000
+http://csc139.test/video/part02.mp4?ms=1500&bytes=4200000
+http://csc139.test/video/part03.mp4?ms=1500&bytes=4300000
+http://csc139.test/video/part04.mp4?ms=1500&bytes=4400000
+http://csc139.test/thumbs/t01.png?ms=250&bytes=8500
+http://csc139.test/thumbs/t02.png?ms=250&bytes=9000
+http://csc139.test/thumbs/t03.png?ms=250&bytes=9500
+http://csc139.test/thumbs/t04.png?ms=250&bytes=10000
+http://csc139.test/thumbs/t05.png?ms=250&bytes=10500
+http://csc139.test/thumbs/t06.png?ms=250&bytes=11000
+http://csc139.test/thumbs/t07.png?ms=250&bytes=11500
+http://csc139.test/thumbs/t08.png?ms=250&bytes=12000
+http://csc139.test/thumbs/t09.png?ms=250&bytes=12500
+http://csc139.test/thumbs/t10.png?ms=250&bytes=13000
+http://csc139.test/thumbs/t11.png?ms=250&bytes=13500
+http://csc139.test/thumbs/t12.png?ms=250&bytes=14000
